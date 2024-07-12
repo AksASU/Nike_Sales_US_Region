@@ -27,9 +27,9 @@
 
 ## Contact
 
-Author: Smit Rana
+Author: Akshay Barot
 
-LinkedIn: https://www.linkedin.com/in/smit98rana/
+LinkedIn: www.linkedin.com/in/akshaybarot
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
