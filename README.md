@@ -2,13 +2,6 @@
 
 ####
 
-<p align="center">
-  <img src="https://github.com/gentallman/Nike-US-Sales/assets/78334851/8495afd6-3df9-4f43-8f3d-ce044483c1d8" width="300">
-</p>
-
-
-####
-
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMzQzYjg5MDYtNzI5Zi00MjE5LWJlYWItMmUzZjI0ODUzOTkyIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
   <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
 </a>
